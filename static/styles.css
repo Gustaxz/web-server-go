@@ -1,0 +1,11 @@
+form {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	width: 30%;
+}
+
+.butao {
+	padding: 8px;
+	width: 20%;
+}
